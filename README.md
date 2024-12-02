@@ -6,7 +6,7 @@ after each program commit with proper comment and push
 give the proper remarks here in readme
 
 
-reg #   ------------  Name --------
+reg #   23-NTU-CS-1141  Name Asbah Asif
 
 
 
@@ -16,8 +16,7 @@ remarks about sum-even
 ?
 ?
 
-jfjfjfjfjfjf
-kfkfkfkfkfk
+
 
 
 
